@@ -1,0 +1,37 @@
+h1{
+	color: darkred;
+	text-align: center;
+	border: solid 1px darkred;
+}
+
+h2{
+	background-color: grey;
+	color: whitesmoke;
+	text-align: center;
+	border: solid 2px black;
+}
+
+.practice2{
+	color: greenyellow;
+}
+
+.practice3{
+	color: greenyellow;
+	background-color: orangered;
+	text-align: left;
+	border: none;
+}
+
+#legend{
+	color: lightgreen;
+}
+
+fieldset{
+	text-align: center;
+}
+p{
+	text-align: center;
+	font-size: 20px;
+	color: orangered;
+	border: dotted 1px lightgrey;
+}
